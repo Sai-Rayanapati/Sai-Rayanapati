@@ -15,9 +15,6 @@
 - 💻 Operating Systems: Linux, MacOS, Microsoft Windows.
 - 🛠️ Methodology: Agile, Waterfall, DevOps.
 
-## Projects
-<!-- You can embed your GitHub stats or display your pinned repositories here -->
-
 ## Connect with Me
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sai-rayanapati/)](https://www.linkedin.com/in/sai-rayanapati/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Sai-Rayanapati)](https://github.com/Sai-Rayanapati)
