@@ -1,7 +1,7 @@
 # Hi there, I'm Sai Rayanapati 👋
 
 ## About Me
-- 🎓 Pursuing an Integrated Master’s Degree in Computer Science at Trinity College Dublin, graduating in May 2024.
+- 🎓 A recent graduate with a Master's in Computer Science from Trinity College Dublin.
 - 🌱 I’m enhancing my skills in Artificial Intelligence, Machine Learning and Agumented Reality.
 - 👯 Eager to collaborate on innovative software development projects.
 - 💬 Ask me about software design, architecture, and algorithmic problem-solving.
