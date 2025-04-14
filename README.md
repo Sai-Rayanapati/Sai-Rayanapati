@@ -5,7 +5,7 @@
 - 🌱 I’m enhancing my skills in Artificial Intelligence, Machine Learning and Agumented Reality.
 - 👯 Eager to collaborate on innovative software development projects.
 - 💬 Ask me about software design, architecture, and algorithmic problem-solving.
-- 📫 Reach out to me at kanthras@tcd.ie.
+- 📫 Reach out to me at saibalasubra12@gmail.com.
 - 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: I'm an active member of the DU Karting Society with a passion for racing and teamwork.
 
